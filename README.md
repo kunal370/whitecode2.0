@@ -23,10 +23,6 @@ An intelligent coding assistant that combines **local Ollama/Mistral processing*
   else:
       return gemini_response
 
-
-
-![image](https://github.com/user-attachments/assets/918204ff-8141-4215-bb1f-012dc4a690d3)![image](https://github.com/user-attachments/assets/56d6b48f-11a9-4142-b1b0-ed1184cea28d)
-
 ask coding question hit send– whitecode2.0 responds instantly!
 ## Demo
 ![image](https://github.com/user-attachments/assets/b65682a9-b1d0-4307-8c10-141a3d16882f) ![image](https://github.com/user-attachments/assets/5c08fa70-15d2-4799-b248-da0c2046f9e7) ![image](https://github.com/user-attachments/assets/490b7883-55ec-4d14-b820-9702b17c9cbf)
