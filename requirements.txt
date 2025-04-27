@@ -1,0 +1,7 @@
+flask
+google-generativeai
+ollama
+chromadb
+sentence-transformers
+
+#pip install -r requirements.txt
