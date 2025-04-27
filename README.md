@@ -25,30 +25,34 @@ An intelligent coding assistant that combines **local Ollama/Mistral processing*
 
 
 **Tech Stack 🛠️**
+
 Component     	    Technology Used
+
 Local LLM	          Ollama with Mistral 7B
+
 Cloud Fallback  	  Gemini API
+
 Vector Database	    ChromaDB
+
 Embeddings	        all-MiniLM-L6-v2
+
 Web Framework	      Flask
-Performance Metrics 📊
-Scenario	Avg Response Time	Accuracy
-Local Ollama/Mistral	1.2s	89%
-Trained Data	0.4s	97%
-Gemini Fallback	2.8s	93%
+
 
 
 **Performance Metrics 📊**
+
 Scenario	               Avg Response Time	   Accuracy
+
 Trained Data	                  0.4s           	 89%
+
 Gemini Fallback	                2.8s	           93%
 
 
 ask coding question hit send– whitecode2.0 responds instantly!
 ## Demo
-![image](https://github.com/user-attachments/assets/e46d265e-8c9a-4eef-89c3-4f23519b34ce)
+![image](https://github.com/user-attachments/assets/b65682a9-b1d0-4307-8c10-141a3d16882f) ![image](https://github.com/user-attachments/assets/5c08fa70-15d2-4799-b248-da0c2046f9e7) ![image](https://github.com/user-attachments/assets/490b7883-55ec-4d14-b820-9702b17c9cbf)
 
-![image](https://github.com/user-attachments/assets/4a111f93-cd0e-4a9d-a368-cb92e92a327e)
 
-![image](https://github.com/user-attachments/assets/54767c48-8c23-46f3-9a55-7ba7903eb85c)
+
 
