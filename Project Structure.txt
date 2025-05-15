@@ -1,0 +1,10 @@
+whitecode2.0/
+│
+├── app.py                # Main Streamlit application
+├── train_model.py        # Script to train the Ollama model
+├── data/                 # Your .py files for training
+│   └── example.py        # Sample Python files
+│   └── example2.py       # Sample Python files
+├── models/               # Ollama model files (auto-created)
+├── .env                  # Environment variables
+└── requirements.txt      # Python dependencies

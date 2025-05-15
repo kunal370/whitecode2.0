@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+ollama
+chromadb
+sentence-transformers
+python-dotenv
+
+#pip install -r requirements.txt
+
+
