@@ -6,7 +6,7 @@ An intelligent coding assistant that combines **local Ollama/Mistral processing*
 
 - **Tri-Source Intelligence**:
   - 🏠 Local Ollama/Mistral 7B for fast responses
-  - 📚 Pre-trained code snippets (70+ examples)
+  - 📚 Pre-trained code snippets (80+ examples)
   - ☁️ Gemini API for complex queries
 
     
@@ -22,7 +22,7 @@ An intelligent coding assistant that combines **local Ollama/Mistral processing*
   else:
       return gemini_response
 
-ask coding question hit send– whitecode2.0 responds instantly!
+Ask coding questions, hit send, and whitecode 2.0 responds instantly!
 ## Demo
 ![image](https://github.com/user-attachments/assets/7d9d94f0-1907-4ec9-ad41-d824756b7e15)
 ![image](https://github.com/user-attachments/assets/1a939f3f-2f1e-48df-8c8e-85e0f35afd05)
