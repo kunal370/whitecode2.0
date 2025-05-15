@@ -13,7 +13,6 @@ An intelligent coding assistant that combines **local Ollama/Mistral processing*
 - ✨ **Beautifully Formatted Responses**: Code blocks with proper indentation and syntax highlighting
 - 🌐 **Web Interface**: Simple and intuitive chat-like interface
 - 🔒 **Secure**: API keys protected via environment variables
-- 📱 **Responsive Design**: Works on both desktop and mobile devices
 
 
 - **Smart Response Handling**:
