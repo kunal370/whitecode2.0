@@ -1,4 +1,4 @@
-# ⛑️ whitecode2.0 - Python Coding Assistant
+# ⛑️ whitecode2.0 - Hybrid AI Code Assistant 🤖💻
 
 **whitecode2.0** is a smart Python coding assistant powered by **ChromaDB**, **Sentence Transformers**, and **Gemini**. It provides contextual code suggestions and explanations for Python questions using both locally trained code snippets and generative AI when necessary.
 
@@ -11,13 +11,16 @@
 - 💬 Chat-style interface built with **Streamlit**.
 - 🧠 Uses `all-MiniLM-L6-v2` from SentenceTransformers to embed and query code.
 - 🗂️ Locally stores and retrieves Python files from a `data/` folder.
-
+- 📚 Pre-trained code snippets (80+ examples)
+- ☁️ Gemini API for complex queries
 ---
 
 ## 🧱 Project Structure
 
 whitecode2.0/
+
 │
+
 ├── app.py # Main Streamlit application
 
 ├── train_model.py # Script to train the embedding model on your Python codebase
@@ -34,21 +37,6 @@ whitecode2.0/
 
 └── requirements.txt # Project dependencies
 
-# Install dependencies:
-
-pip install -r requirements.txt
-
-
-# WhiteCode2.0 - Hybrid AI Code Assistant 🤖💻
-
-An intelligent coding assistant that combines **local Ollama/Mistral processing** with **Gemini API fallback** for Python development support.
-
-## Key Features ✨
-
-- **Tri-Source Intelligence**:
-  - 🏠 Local Ollama/Mistral 7B for fast responses
-  - 📚 Pre-trained code snippets (80+ examples)
-  - ☁️ Gemini API for complex queries
 
     
 - ✨ **Beautifully Formatted Responses**: Code blocks with proper indentation and syntax highlighting
