@@ -19,12 +19,19 @@
 whitecode2.0/
 │
 ├── app.py # Main Streamlit application
+
 ├── train_model.py # Script to train the embedding model on your Python codebase
+
 ├── data/ # Folder containing .py files to train on
+
 │ └── example.py
+
 │ └── example2.py
+
 ├── models/ # ChromaDB storage (auto-generated)
+
 ├── .env # Environment file with API keys
+
 └── requirements.txt # Project dependencies
 
 # Install dependencies:
