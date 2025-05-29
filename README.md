@@ -15,28 +15,17 @@
 - ☁️ Gemini API for complex queries
 ---
 
-## 🧱 Project Structure
 
-whitecode2.0/
+## ✅ Example Questions
+Try asking:
 
-│
+WAP to reverse a string
 
-├── app.py # Main Streamlit application
+How to implement a binary search in Python?
 
-├── train_model.py # Script to train the embedding model on your Python codebase
+Write code to merge two dictionaries
 
-├── data/ # Folder containing .py files to train on
-
-│ └── example.py
-
-│ └── example2.py
-
-├── models/ # ChromaDB storage (auto-generated)
-
-├── .env # Environment file with API keys
-
-└── requirements.txt # Project dependencies
-
+Hi
 
     
 - ✨ **Beautifully Formatted Responses**: Code blocks with proper indentation and syntax highlighting
