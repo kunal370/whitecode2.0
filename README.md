@@ -19,13 +19,14 @@
 ## ✅ Example Questions
 Try asking:
 
-WAP to reverse a string
+WAF to convert USD to INR.
 
-How to implement a binary search in Python?
+Write a recursive function to calculate the sum of first n natural numbers.
 
-Write code to merge two dictionaries
+Print 100 to 50 odd numbers in reverse order
 
 Hi
+
 
     
 - ✨ **Beautifully Formatted Responses**: Code blocks with proper indentation and syntax highlighting
